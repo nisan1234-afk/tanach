@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nisan1234-afk.github.io/tanach/sitemap.xml
